@@ -1,0 +1,3 @@
+export LOCALE=en_US
+export DISCORD_BOT_TOKEN=MTA2OTQyMzA3OTY5NDAwODM4MQ.GArGU7.gSHM1zl8Zm2rYcp3zl8gGKgZsC5c-mlhz7HpQg
+python3 app.py
